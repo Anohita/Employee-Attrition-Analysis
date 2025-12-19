@@ -25,15 +25,6 @@ This dataset contains fictional employee data including age, job role, income, j
 - Matplotlib, Seaborn
 - Scikit-learn
 
-## Project Structure
-Employee-Attrition-Analysis
-
-├── data
-└── HR_Employee_Attrition.csv
-├── notebooks
-│ └── 01_Employee_Attrition_Analysis.ipynb
-├── README.md
-└── requirements.txt
 
 ## Key Outcomes 
 - Identification of high-risk employee groups
